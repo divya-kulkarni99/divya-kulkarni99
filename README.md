@@ -2,9 +2,9 @@
 
 ### About me:
 
-I am Software Engineer👩🏻‍💻 with a Master's Degree in Information Systems from Northeastern University, San Jose, CA.
-I interned at Matt Young Media as a Software Engineer.
-I am actively looking for Software Engineer role.
+1. I am a Software Engineer 👩🏻‍💻 with a Master’s degree in Information Systems from Northeastern University, San Jose, CA.
+2. I interned as a Software Engineer at Matt Young Media and developed <a href="https://www.socialpr.ai/">Social PR AI</a>
+3. I am actively seeking a Software Engineer role.
 
 ### My Socials:
 
@@ -24,4 +24,4 @@ I am actively looking for Software Engineer role.
 
 ### GitHub stats:
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-kulkarni99&layout=compact" alt="Languages used"/>
