@@ -6,8 +6,6 @@
 2. I interned as a Software Engineer at Matt Young Media and developed <a href="https://www.socialpr.ai/">Social PR AI</a>
 3. I am actively seeking a Software Engineer role.
 
-### <a href="https://drive.google.com/file/d/1C3l3Z5agbKjTu15cPvmhquSLK1xTi7M2/view?usp=sharing"> My Resume </a>
-
 ### My Socials:
 
 <a href="https://www.linkedin.com/in/kuldivya/" target="_blank">
