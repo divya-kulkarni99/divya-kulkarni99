@@ -3,7 +3,7 @@
 ### About me:
 
 1. I am a Software Engineer 👩🏻‍💻 with a Master’s degree in Information Systems from Northeastern University, San Jose, CA.
-2. I interned as a Software Engineer at Matt Young Media and developed <a href="https://www.socialpr.ai/">Social PR AI</a>
+2. I interned as a Software Engineer at Matt Young Media and developed Social PR AI
 3. I am actively seeking a Software Engineer role.
 
 ### My Socials:
